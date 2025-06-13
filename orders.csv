@@ -1,0 +1,22 @@
+Product,Dept,Quantity
+A4 Paper,Administration,3
+Staple,Administration,2
+Pencil,Sales,3
+Blue Pen,HR,10
+HP Cartridge,HR,1
+Staple,HR,4
+Glue stick,Administration,2
+Pencil,Sales,3
+HP Cartridge,Administration,2
+Black Pen,Sales,4
+Glue stick,Sales,3
+A4 Paper,Sales,12
+Black Pen,HR,1
+Clips,Administration,2
+Pencil,HR,10
+Black Pen,Administration,8
+Blue Pen,Administration,6
+Clips,Sales,2
+Black Pen,HR,9
+Pencil,HR,4
+Clips,Administration,3
